@@ -20,5 +20,5 @@ spring:
         show_sql: true
         highlight_sql: true
 jwt:
-  secret: okwhdiahwiI9WImnaDmdWAdi821cJJCA9CWHjbaaj2kkAkj2CNs22kDWm0mck2aegdikkakDWDkkcDjkj
+  secret: okwhdiahwiI9WImnaDmdWAdi821cJJCA9CWHjbaaj2kkAkj2okwdokaokdakllvrhCNs22kDWm0mck2aegdikkakDWDkkcDjkj
   expire-time: 1209600 # 2 weeks
